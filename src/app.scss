@@ -238,6 +238,8 @@
 
         box-shadow: var(--pf-global--BoxShadow--sm);
 
+        align-items: baseline;
+
         &-sticky {
             position: sticky;
             top: 0;
